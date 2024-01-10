@@ -1,12 +1,12 @@
 # https://github.com/AlexxIT/builder/blob/master/builder.sh
 name: go2rtc
 description: Hardware transcoding for Intel (VAAPI) and Raspberry (V4L2)
-url: https://github.com/AlexxIT/go2rtc
-image: alexxit/go2rtc
+url: https://github.com/ViViDboarder/go2rtc
+image: vividboarder/go2rtc
 arch: [ amd64, aarch64, i386, armv7 ]
 
 # https://developers.home-assistant.io/docs/add-ons/configuration
-version: 1.8.5
+version: clean-unifi-urls
 slug: go2rtc
 init: false
 startup: system
